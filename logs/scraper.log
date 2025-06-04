@@ -1,0 +1,23 @@
+2025-06-04 19:59:11 - scraper - INFO - Starting to scrape item IDs (max pages: 500)
+2025-06-04 19:59:15 - scraper - INFO - No items found on page 1, stopping pagination
+2025-06-04 20:01:35 - scraper - INFO - Starting to scrape item IDs (max pages: 2)
+2025-06-04 20:01:36 - scraper - INFO - No items found on page 1, stopping pagination
+2025-06-04 20:10:29 - scraper - INFO - Starting to scrape item IDs (max pages: 500)
+2025-06-04 20:10:31 - scraper - INFO - No items found on page 1, stopping pagination
+2025-06-04 20:12:36 - scraper - INFO - Starting to scrape item IDs (max pages: 500)
+2025-06-04 20:12:38 - scraper - INFO - No items found on page 1, stopping pagination
+2025-06-04 20:12:38 - scraper - INFO - Finished scraping. Found 0 unique items
+2025-06-04 20:15:17 - scraper - INFO - Starting to scrape auto IDs (max pages: 2)
+2025-06-04 20:15:19 - scraper - INFO - No autos found on page 1, stopping pagination
+2025-06-04 20:15:19 - scraper - INFO - Finished scraping. Found 0 unique autos
+2025-06-04 20:15:45 - scraper - INFO - Starting to scrape item IDs (max pages: 2)
+2025-06-04 20:15:46 - scraper - INFO - No items found on page 1, stopping pagination
+2025-06-04 20:15:46 - scraper - INFO - Finished scraping. Found 0 unique items
+2025-06-04 20:15:51 - scraper - INFO - Starting to scrape item IDs (max pages: 2)
+2025-06-04 20:15:52 - scraper - INFO - No items found on page 1, stopping pagination
+2025-06-04 20:15:52 - scraper - INFO - Finished scraping. Found 0 unique items
+2025-06-04 20:16:27 - scraper - INFO - Starting to scrape item IDs (max pages: 2)
+2025-06-04 20:16:29 - scraper - INFO - Found 36 new items on page 1
+2025-06-04 20:16:33 - scraper - INFO - Found 35 new items on page 2
+2025-06-04 20:16:33 - scraper - INFO - Reached max pages limit (2)
+2025-06-04 20:16:33 - scraper - INFO - Finished scraping. Found 71 unique items

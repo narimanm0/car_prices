@@ -1,0 +1,13 @@
+ITEM_URL_BASE = ""
+BASE_URL = "https://turbo.az/autos"
+HOME_FILE = "data/test.html"
+OUTPUT_FILE = "data/items_data.json"
+OUTPUT_CSV_FILE = "data/items_data.csv"
+CLEANED_CSV_FILE = "data/cleaned_data.csv"
+YENI_TIKILI_CSV_FILE = 'data/yeni_tikili_data.csv',
+TORPAQ_CSV_FILE = 'data/torpaq_data.csv',
+HEYET_CSV_FILE = 'data/heyet_evi_data.csv',
+KOHNE_TIKILI_CSV_FILE = 'data/kohne_tikili_data.csv',
+OBYEKT_CSV_FILE = 'data/obyekt_data.csv',
+OFIS_CSV_FILE = 'data/ofis_data.csv',
+QARAJ_CSV_FILE = 'data/qaraj_data.csv'
