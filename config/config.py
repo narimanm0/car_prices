@@ -1,6 +1,4 @@
-ITEM_URL_BASE = ""
-BASE_URL = "https://turbo.az/autos"
-HOME_FILE = "data/test.html"
+BASE_URL = "https://turbo.az/autos/"
 OUTPUT_FILE = "data/items_data.json"
 OUTPUT_CSV_FILE = "data/items_data.csv"
 CLEANED_CSV_FILE = "data/cleaned_data.csv"

@@ -21,3 +21,797 @@
 2025-06-04 20:16:33 - scraper - INFO - Found 35 new items on page 2
 2025-06-04 20:16:33 - scraper - INFO - Reached max pages limit (2)
 2025-06-04 20:16:33 - scraper - INFO - Finished scraping. Found 71 unique items
+2025-06-05 13:33:55 - scraper - INFO - Starting to scrape item IDs (max pages: 20)
+2025-06-05 13:33:56 - scraper - INFO - Found 36 new items on page 1
+2025-06-05 13:33:58 - scraper - INFO - Found 36 new items on page 2
+2025-06-05 13:34:00 - scraper - INFO - Found 34 new items on page 3
+2025-06-05 13:34:01 - scraper - INFO - Found 36 new items on page 4
+2025-06-05 13:34:03 - scraper - INFO - Found 36 new items on page 5
+2025-06-05 13:34:05 - scraper - INFO - Found 34 new items on page 6
+2025-06-05 13:34:07 - scraper - INFO - Found 36 new items on page 7
+2025-06-05 13:34:09 - scraper - INFO - Found 35 new items on page 8
+2025-06-05 13:34:11 - scraper - INFO - Found 33 new items on page 9
+2025-06-05 13:34:12 - scraper - INFO - Found 35 new items on page 10
+2025-06-05 13:34:14 - scraper - INFO - Found 36 new items on page 11
+2025-06-05 13:34:15 - scraper - INFO - Found 35 new items on page 12
+2025-06-05 13:34:17 - scraper - INFO - Found 36 new items on page 13
+2025-06-05 13:34:19 - scraper - INFO - Found 36 new items on page 14
+2025-06-05 13:34:20 - scraper - INFO - Found 35 new items on page 15
+2025-06-05 13:34:22 - scraper - INFO - Found 35 new items on page 16
+2025-06-05 13:34:24 - scraper - INFO - Found 36 new items on page 17
+2025-06-05 13:34:25 - scraper - INFO - Found 32 new items on page 18
+2025-06-05 13:34:27 - scraper - INFO - Found 35 new items on page 19
+2025-06-05 13:34:29 - scraper - INFO - Found 35 new items on page 20
+2025-06-05 13:34:29 - scraper - INFO - Reached max pages limit (20)
+2025-06-05 13:34:29 - scraper - INFO - Finished scraping. Found 702 unique items
+2025-06-05 13:36:22 - scraper - INFO - Starting to scrape item IDs (max pages: 10)
+2025-06-05 13:36:23 - scraper - INFO - Found 36 new items on page 1
+2025-06-05 13:36:24 - scraper - INFO - Found 34 new items on page 2
+2025-06-05 13:36:26 - scraper - INFO - Found 36 new items on page 3
+2025-06-05 13:36:27 - scraper - INFO - Found 35 new items on page 4
+2025-06-05 13:36:28 - scraper - INFO - Found 36 new items on page 5
+2025-06-05 13:36:30 - scraper - INFO - Found 35 new items on page 6
+2025-06-05 13:36:31 - scraper - INFO - Found 35 new items on page 7
+2025-06-05 13:36:33 - scraper - INFO - Found 35 new items on page 8
+2025-06-05 13:36:35 - scraper - INFO - Found 34 new items on page 9
+2025-06-05 13:36:36 - scraper - INFO - Found 35 new items on page 10
+2025-06-05 13:36:36 - scraper - INFO - Reached max pages limit (10)
+2025-06-05 13:36:36 - scraper - INFO - Finished scraping. Found 351 unique items
+2025-06-05 14:10:22 - scraper - INFO - Starting to process 351 items
+2025-06-05 14:10:22 - scraper - INFO - [1/351] Processing: 8979422
+2025-06-05 14:10:22 - scraper - ERROR - Failed to fetch https://turbo.az/autos8979422 - Status code: 404
+2025-06-05 14:10:22 - scraper - WARNING - Failed to process item: 8979422
+2025-06-05 14:10:22 - scraper - INFO - [2/351] Processing: 9501972
+2025-06-05 14:10:22 - scraper - ERROR - Failed to fetch https://turbo.az/autos9501972 - Status code: 404
+2025-06-05 14:10:22 - scraper - WARNING - Failed to process item: 9501972
+2025-06-05 14:10:22 - scraper - INFO - [3/351] Processing: 9212075
+2025-06-05 14:10:22 - scraper - ERROR - Failed to fetch https://turbo.az/autos9212075 - Status code: 404
+2025-06-05 14:10:22 - scraper - WARNING - Failed to process item: 9212075
+2025-06-05 14:10:22 - scraper - INFO - [4/351] Processing: 9483311
+2025-06-05 14:10:23 - scraper - ERROR - Failed to fetch https://turbo.az/autos9483311 - Status code: 404
+2025-06-05 14:10:23 - scraper - WARNING - Failed to process item: 9483311
+2025-06-05 14:10:23 - scraper - INFO - [5/351] Processing: 9424706
+2025-06-05 14:10:23 - scraper - ERROR - Failed to fetch https://turbo.az/autos9424706 - Status code: 404
+2025-06-05 14:10:23 - scraper - WARNING - Failed to process item: 9424706
+2025-06-05 14:10:23 - scraper - INFO - [6/351] Processing: 9426678
+2025-06-05 14:10:23 - scraper - ERROR - Failed to fetch https://turbo.az/autos9426678 - Status code: 404
+2025-06-05 14:10:23 - scraper - WARNING - Failed to process item: 9426678
+2025-06-05 14:10:23 - scraper - INFO - [7/351] Processing: 9206548
+2025-06-05 14:10:23 - scraper - ERROR - Failed to fetch https://turbo.az/autos9206548 - Status code: 404
+2025-06-05 14:10:23 - scraper - WARNING - Failed to process item: 9206548
+2025-06-05 14:10:23 - scraper - INFO - [8/351] Processing: 9353629
+2025-06-05 14:10:24 - scraper - ERROR - Failed to fetch https://turbo.az/autos9353629 - Status code: 404
+2025-06-05 14:10:24 - scraper - WARNING - Failed to process item: 9353629
+2025-06-05 14:10:24 - scraper - INFO - [9/351] Processing: 9474622
+2025-06-05 14:10:24 - scraper - ERROR - Failed to fetch https://turbo.az/autos9474622 - Status code: 404
+2025-06-05 14:10:24 - scraper - WARNING - Failed to process item: 9474622
+2025-06-05 14:10:24 - scraper - INFO - [10/351] Processing: 9467382
+2025-06-05 14:10:24 - scraper - ERROR - Failed to fetch https://turbo.az/autos9467382 - Status code: 404
+2025-06-05 14:10:24 - scraper - WARNING - Failed to process item: 9467382
+2025-06-05 14:10:24 - scraper - INFO - [11/351] Processing: 9443723
+2025-06-05 14:10:24 - scraper - ERROR - Failed to fetch https://turbo.az/autos9443723 - Status code: 404
+2025-06-05 14:10:24 - scraper - WARNING - Failed to process item: 9443723
+2025-06-05 14:10:24 - scraper - INFO - [12/351] Processing: 9510302
+2025-06-05 14:10:25 - scraper - ERROR - Failed to fetch https://turbo.az/autos9510302 - Status code: 404
+2025-06-05 14:10:25 - scraper - WARNING - Failed to process item: 9510302
+2025-06-05 14:10:25 - scraper - INFO - [13/351] Processing: 8759870
+2025-06-05 14:10:25 - scraper - ERROR - Failed to fetch https://turbo.az/autos8759870 - Status code: 404
+2025-06-05 14:10:25 - scraper - WARNING - Failed to process item: 8759870
+2025-06-05 14:10:25 - scraper - INFO - [14/351] Processing: 9175085
+2025-06-05 14:10:25 - scraper - ERROR - Failed to fetch https://turbo.az/autos9175085 - Status code: 404
+2025-06-05 14:10:25 - scraper - WARNING - Failed to process item: 9175085
+2025-06-05 14:10:25 - scraper - INFO - [15/351] Processing: 9449905
+2025-06-05 14:10:25 - scraper - ERROR - Failed to fetch https://turbo.az/autos9449905 - Status code: 404
+2025-06-05 14:10:25 - scraper - WARNING - Failed to process item: 9449905
+2025-06-05 14:10:25 - scraper - INFO - [16/351] Processing: 9453599
+2025-06-05 14:10:25 - scraper - ERROR - Failed to fetch https://turbo.az/autos9453599 - Status code: 404
+2025-06-05 14:10:25 - scraper - WARNING - Failed to process item: 9453599
+2025-06-05 14:10:25 - scraper - INFO - [17/351] Processing: 9497843
+2025-06-05 14:10:26 - scraper - ERROR - Failed to fetch https://turbo.az/autos9497843 - Status code: 404
+2025-06-05 14:10:26 - scraper - WARNING - Failed to process item: 9497843
+2025-06-05 14:10:26 - scraper - INFO - [18/351] Processing: 9461977
+2025-06-05 14:10:26 - scraper - ERROR - Failed to fetch https://turbo.az/autos9461977 - Status code: 404
+2025-06-05 14:10:26 - scraper - WARNING - Failed to process item: 9461977
+2025-06-05 14:10:26 - scraper - INFO - [19/351] Processing: 9033391
+2025-06-05 14:10:26 - scraper - ERROR - Failed to fetch https://turbo.az/autos9033391 - Status code: 404
+2025-06-05 14:10:26 - scraper - WARNING - Failed to process item: 9033391
+2025-06-05 14:10:26 - scraper - INFO - [20/351] Processing: 9068483
+2025-06-05 14:10:26 - scraper - ERROR - Failed to fetch https://turbo.az/autos9068483 - Status code: 404
+2025-06-05 14:10:26 - scraper - WARNING - Failed to process item: 9068483
+2025-06-05 14:10:26 - scraper - INFO - [21/351] Processing: 9502920
+2025-06-05 14:10:27 - scraper - ERROR - Failed to fetch https://turbo.az/autos9502920 - Status code: 404
+2025-06-05 14:10:27 - scraper - WARNING - Failed to process item: 9502920
+2025-06-05 14:10:27 - scraper - INFO - [22/351] Processing: 9506761
+2025-06-05 14:10:27 - scraper - ERROR - Failed to fetch https://turbo.az/autos9506761 - Status code: 404
+2025-06-05 14:10:27 - scraper - WARNING - Failed to process item: 9506761
+2025-06-05 14:10:27 - scraper - INFO - [23/351] Processing: 9469661
+2025-06-05 14:10:27 - scraper - ERROR - Failed to fetch https://turbo.az/autos9469661 - Status code: 404
+2025-06-05 14:10:27 - scraper - WARNING - Failed to process item: 9469661
+2025-06-05 14:10:27 - scraper - INFO - [24/351] Processing: 8865546
+2025-06-05 14:10:27 - scraper - ERROR - Failed to fetch https://turbo.az/autos8865546 - Status code: 404
+2025-06-05 14:10:27 - scraper - WARNING - Failed to process item: 8865546
+2025-06-05 14:10:27 - scraper - INFO - [25/351] Processing: 9513999
+2025-06-05 14:10:28 - scraper - ERROR - Failed to fetch https://turbo.az/autos9513999 - Status code: 404
+2025-06-05 14:10:28 - scraper - WARNING - Failed to process item: 9513999
+2025-06-05 14:10:28 - scraper - INFO - [26/351] Processing: 9514014
+2025-06-05 14:10:28 - scraper - ERROR - Failed to fetch https://turbo.az/autos9514014 - Status code: 404
+2025-06-05 14:10:28 - scraper - WARNING - Failed to process item: 9514014
+2025-06-05 14:10:28 - scraper - INFO - [27/351] Processing: 9265664
+2025-06-05 14:10:28 - scraper - ERROR - Failed to fetch https://turbo.az/autos9265664 - Status code: 404
+2025-06-05 14:10:28 - scraper - WARNING - Failed to process item: 9265664
+2025-06-05 14:10:28 - scraper - INFO - [28/351] Processing: 9288167
+2025-06-05 14:10:28 - scraper - ERROR - Failed to fetch https://turbo.az/autos9288167 - Status code: 404
+2025-06-05 14:10:28 - scraper - WARNING - Failed to process item: 9288167
+2025-06-05 14:10:28 - scraper - INFO - [29/351] Processing: 9467454
+2025-06-05 14:10:29 - scraper - ERROR - Failed to fetch https://turbo.az/autos9467454 - Status code: 404
+2025-06-05 14:10:29 - scraper - WARNING - Failed to process item: 9467454
+2025-06-05 14:10:29 - scraper - INFO - [30/351] Processing: 9512361
+2025-06-05 14:10:29 - scraper - ERROR - Failed to fetch https://turbo.az/autos9512361 - Status code: 404
+2025-06-05 14:10:29 - scraper - WARNING - Failed to process item: 9512361
+2025-06-05 14:10:29 - scraper - INFO - [31/351] Processing: 9499223
+2025-06-05 14:10:29 - scraper - ERROR - Failed to fetch https://turbo.az/autos9499223 - Status code: 404
+2025-06-05 14:10:29 - scraper - WARNING - Failed to process item: 9499223
+2025-06-05 14:10:29 - scraper - INFO - [32/351] Processing: 9501825
+2025-06-05 14:10:29 - scraper - ERROR - Failed to fetch https://turbo.az/autos9501825 - Status code: 404
+2025-06-05 14:10:29 - scraper - WARNING - Failed to process item: 9501825
+2025-06-05 14:10:29 - scraper - INFO - [33/351] Processing: 8494001
+2025-06-05 14:10:29 - scraper - ERROR - Failed to fetch https://turbo.az/autos8494001 - Status code: 404
+2025-06-05 14:10:29 - scraper - WARNING - Failed to process item: 8494001
+2025-06-05 14:10:29 - scraper - INFO - [34/351] Processing: 9157142
+2025-06-05 14:10:30 - scraper - ERROR - Failed to fetch https://turbo.az/autos9157142 - Status code: 404
+2025-06-05 14:10:30 - scraper - WARNING - Failed to process item: 9157142
+2025-06-05 14:10:30 - scraper - INFO - [35/351] Processing: 9068500
+2025-06-05 14:10:30 - scraper - ERROR - Failed to fetch https://turbo.az/autos9068500 - Status code: 404
+2025-06-05 14:10:30 - scraper - WARNING - Failed to process item: 9068500
+2025-06-05 14:10:30 - scraper - INFO - [36/351] Processing: 9431796
+2025-06-05 14:10:30 - scraper - ERROR - Failed to fetch https://turbo.az/autos9431796 - Status code: 404
+2025-06-05 14:10:30 - scraper - WARNING - Failed to process item: 9431796
+2025-06-05 14:10:30 - scraper - INFO - [37/351] Processing: 9504193
+2025-06-05 14:10:30 - scraper - ERROR - Failed to fetch https://turbo.az/autos9504193 - Status code: 404
+2025-06-05 14:10:30 - scraper - WARNING - Failed to process item: 9504193
+2025-06-05 14:10:30 - scraper - INFO - [38/351] Processing: 9454098
+2025-06-05 14:10:31 - scraper - ERROR - Failed to fetch https://turbo.az/autos9454098 - Status code: 404
+2025-06-05 14:10:31 - scraper - WARNING - Failed to process item: 9454098
+2025-06-05 14:10:31 - scraper - INFO - [39/351] Processing: 9491656
+2025-06-05 14:10:31 - scraper - ERROR - Failed to fetch https://turbo.az/autos9491656 - Status code: 404
+2025-06-05 14:10:31 - scraper - WARNING - Failed to process item: 9491656
+2025-06-05 14:10:31 - scraper - INFO - [40/351] Processing: 9504678
+2025-06-05 14:10:31 - scraper - ERROR - Failed to fetch https://turbo.az/autos9504678 - Status code: 404
+2025-06-05 14:10:31 - scraper - WARNING - Failed to process item: 9504678
+2025-06-05 14:10:31 - scraper - INFO - [41/351] Processing: 9505826
+2025-06-05 14:10:31 - scraper - ERROR - Failed to fetch https://turbo.az/autos9505826 - Status code: 404
+2025-06-05 14:10:31 - scraper - WARNING - Failed to process item: 9505826
+2025-06-05 14:10:31 - scraper - INFO - [42/351] Processing: 8471605
+2025-06-05 14:10:32 - scraper - ERROR - Failed to fetch https://turbo.az/autos8471605 - Status code: 404
+2025-06-05 14:10:32 - scraper - WARNING - Failed to process item: 8471605
+2025-06-05 14:10:32 - scraper - INFO - [43/351] Processing: 9473858
+2025-06-05 14:10:32 - scraper - ERROR - Failed to fetch https://turbo.az/autos9473858 - Status code: 404
+2025-06-05 14:10:32 - scraper - WARNING - Failed to process item: 9473858
+2025-06-05 14:10:32 - scraper - INFO - [44/351] Processing: 9476668
+2025-06-05 14:10:32 - scraper - ERROR - Failed to fetch https://turbo.az/autos9476668 - Status code: 404
+2025-06-05 14:10:32 - scraper - WARNING - Failed to process item: 9476668
+2025-06-05 14:10:32 - scraper - INFO - [45/351] Processing: 9441698
+2025-06-05 14:10:32 - scraper - ERROR - Failed to fetch https://turbo.az/autos9441698 - Status code: 404
+2025-06-05 14:10:32 - scraper - WARNING - Failed to process item: 9441698
+2025-06-05 14:10:32 - scraper - INFO - [46/351] Processing: 9452148
+2025-06-05 14:10:33 - scraper - ERROR - Failed to fetch https://turbo.az/autos9452148 - Status code: 404
+2025-06-05 14:10:33 - scraper - WARNING - Failed to process item: 9452148
+2025-06-05 14:10:33 - scraper - INFO - [47/351] Processing: 9452373
+2025-06-05 14:10:33 - scraper - ERROR - Failed to fetch https://turbo.az/autos9452373 - Status code: 404
+2025-06-05 14:10:33 - scraper - WARNING - Failed to process item: 9452373
+2025-06-05 14:10:33 - scraper - INFO - [48/351] Processing: 9228466
+2025-06-05 14:10:33 - scraper - ERROR - Failed to fetch https://turbo.az/autos9228466 - Status code: 404
+2025-06-05 14:10:33 - scraper - WARNING - Failed to process item: 9228466
+2025-06-05 14:10:33 - scraper - INFO - [49/351] Processing: 9448968
+2025-06-05 14:10:33 - scraper - ERROR - Failed to fetch https://turbo.az/autos9448968 - Status code: 404
+2025-06-05 14:10:33 - scraper - WARNING - Failed to process item: 9448968
+2025-06-05 14:10:33 - scraper - INFO - [50/351] Processing: 9502209
+2025-06-05 14:10:34 - scraper - ERROR - Failed to fetch https://turbo.az/autos9502209 - Status code: 404
+2025-06-05 14:10:34 - scraper - WARNING - Failed to process item: 9502209
+2025-06-05 14:10:34 - scraper - INFO - [51/351] Processing: 9509034
+2025-06-05 14:10:34 - scraper - ERROR - Failed to fetch https://turbo.az/autos9509034 - Status code: 404
+2025-06-05 14:10:34 - scraper - WARNING - Failed to process item: 9509034
+2025-06-05 14:10:34 - scraper - INFO - [52/351] Processing: 9477446
+2025-06-05 14:10:34 - scraper - ERROR - Failed to fetch https://turbo.az/autos9477446 - Status code: 404
+2025-06-05 14:10:34 - scraper - WARNING - Failed to process item: 9477446
+2025-06-05 14:10:34 - scraper - INFO - [53/351] Processing: 9505006
+2025-06-05 14:10:34 - scraper - ERROR - Failed to fetch https://turbo.az/autos9505006 - Status code: 404
+2025-06-05 14:10:34 - scraper - WARNING - Failed to process item: 9505006
+2025-06-05 14:10:34 - scraper - INFO - [54/351] Processing: 9445995
+2025-06-05 14:10:35 - scraper - ERROR - Failed to fetch https://turbo.az/autos9445995 - Status code: 404
+2025-06-05 14:10:35 - scraper - WARNING - Failed to process item: 9445995
+2025-06-05 14:10:35 - scraper - INFO - [55/351] Processing: 9513409
+2025-06-05 14:10:35 - scraper - ERROR - Failed to fetch https://turbo.az/autos9513409 - Status code: 404
+2025-06-05 14:10:35 - scraper - WARNING - Failed to process item: 9513409
+2025-06-05 14:10:35 - scraper - INFO - [56/351] Processing: 9241325
+2025-06-05 14:10:35 - scraper - ERROR - Failed to fetch https://turbo.az/autos9241325 - Status code: 404
+2025-06-05 14:10:35 - scraper - WARNING - Failed to process item: 9241325
+2025-06-05 14:10:35 - scraper - INFO - [57/351] Processing: 9504555
+2025-06-05 14:10:35 - scraper - ERROR - Failed to fetch https://turbo.az/autos9504555 - Status code: 404
+2025-06-05 14:10:35 - scraper - WARNING - Failed to process item: 9504555
+2025-06-05 14:10:35 - scraper - INFO - [58/351] Processing: 9414168
+2025-06-05 14:10:36 - scraper - ERROR - Failed to fetch https://turbo.az/autos9414168 - Status code: 404
+2025-06-05 14:10:36 - scraper - WARNING - Failed to process item: 9414168
+2025-06-05 14:10:36 - scraper - INFO - [59/351] Processing: 9484757
+2025-06-05 14:10:36 - scraper - ERROR - Failed to fetch https://turbo.az/autos9484757 - Status code: 404
+2025-06-05 14:10:36 - scraper - WARNING - Failed to process item: 9484757
+2025-06-05 14:10:36 - scraper - INFO - [60/351] Processing: 9263663
+2025-06-05 14:10:36 - scraper - ERROR - Failed to fetch https://turbo.az/autos9263663 - Status code: 404
+2025-06-05 14:10:36 - scraper - WARNING - Failed to process item: 9263663
+2025-06-05 14:10:36 - scraper - INFO - [61/351] Processing: 9489350
+2025-06-05 14:10:36 - scraper - ERROR - Failed to fetch https://turbo.az/autos9489350 - Status code: 404
+2025-06-05 14:10:36 - scraper - WARNING - Failed to process item: 9489350
+2025-06-05 14:10:36 - scraper - INFO - [62/351] Processing: 8806769
+2025-06-05 14:10:36 - scraper - ERROR - Failed to fetch https://turbo.az/autos8806769 - Status code: 404
+2025-06-05 14:10:36 - scraper - WARNING - Failed to process item: 8806769
+2025-06-05 14:10:36 - scraper - INFO - [63/351] Processing: 9454452
+2025-06-05 14:10:37 - scraper - ERROR - Failed to fetch https://turbo.az/autos9454452 - Status code: 404
+2025-06-05 14:10:37 - scraper - WARNING - Failed to process item: 9454452
+2025-06-05 14:10:37 - scraper - INFO - [64/351] Processing: 9513996
+2025-06-05 14:10:37 - scraper - ERROR - Failed to fetch https://turbo.az/autos9513996 - Status code: 404
+2025-06-05 14:10:37 - scraper - WARNING - Failed to process item: 9513996
+2025-06-05 14:10:37 - scraper - INFO - [65/351] Processing: 9514007
+2025-06-05 14:10:37 - scraper - ERROR - Failed to fetch https://turbo.az/autos9514007 - Status code: 404
+2025-06-05 14:10:37 - scraper - WARNING - Failed to process item: 9514007
+2025-06-05 14:10:37 - scraper - INFO - [66/351] Processing: 9415650
+2025-06-05 14:10:37 - scraper - ERROR - Failed to fetch https://turbo.az/autos9415650 - Status code: 404
+2025-06-05 14:10:37 - scraper - WARNING - Failed to process item: 9415650
+2025-06-05 14:10:37 - scraper - INFO - [67/351] Processing: 9510638
+2025-06-05 14:10:38 - scraper - ERROR - Failed to fetch https://turbo.az/autos9510638 - Status code: 404
+2025-06-05 14:10:38 - scraper - WARNING - Failed to process item: 9510638
+2025-06-05 14:10:38 - scraper - INFO - [68/351] Processing: 9225814
+2025-06-05 14:10:38 - scraper - ERROR - Failed to fetch https://turbo.az/autos9225814 - Status code: 404
+2025-06-05 14:10:38 - scraper - WARNING - Failed to process item: 9225814
+2025-06-05 14:10:38 - scraper - INFO - [69/351] Processing: 9455087
+2025-06-05 14:10:38 - scraper - ERROR - Failed to fetch https://turbo.az/autos9455087 - Status code: 404
+2025-06-05 14:10:38 - scraper - WARNING - Failed to process item: 9455087
+2025-06-05 14:10:38 - scraper - INFO - [70/351] Processing: 9333361
+2025-06-05 14:10:38 - scraper - ERROR - Failed to fetch https://turbo.az/autos9333361 - Status code: 404
+2025-06-05 14:10:38 - scraper - WARNING - Failed to process item: 9333361
+2025-06-05 14:10:38 - scraper - INFO - [71/351] Processing: 9503782
+2025-06-05 14:10:39 - scraper - ERROR - Failed to fetch https://turbo.az/autos9503782 - Status code: 404
+2025-06-05 14:10:39 - scraper - WARNING - Failed to process item: 9503782
+2025-06-05 14:10:39 - scraper - INFO - [72/351] Processing: 8660013
+2025-06-05 14:10:39 - scraper - ERROR - Failed to fetch https://turbo.az/autos8660013 - Status code: 404
+2025-06-05 14:10:39 - scraper - WARNING - Failed to process item: 8660013
+2025-06-05 14:10:39 - scraper - INFO - [73/351] Processing: 9258119
+2025-06-05 14:10:39 - scraper - ERROR - Failed to fetch https://turbo.az/autos9258119 - Status code: 404
+2025-06-05 14:10:39 - scraper - WARNING - Failed to process item: 9258119
+2025-06-05 14:10:39 - scraper - INFO - [74/351] Processing: 9472996
+2025-06-05 14:10:39 - scraper - ERROR - Failed to fetch https://turbo.az/autos9472996 - Status code: 404
+2025-06-05 14:10:39 - scraper - WARNING - Failed to process item: 9472996
+2025-06-05 14:10:39 - scraper - INFO - [75/351] Processing: 9177194
+2025-06-05 14:10:40 - scraper - ERROR - Failed to fetch https://turbo.az/autos9177194 - Status code: 404
+2025-06-05 14:10:40 - scraper - WARNING - Failed to process item: 9177194
+2025-06-05 14:10:40 - scraper - INFO - [76/351] Processing: 9476023
+2025-06-05 14:10:40 - scraper - ERROR - Failed to fetch https://turbo.az/autos9476023 - Status code: 404
+2025-06-05 14:10:40 - scraper - WARNING - Failed to process item: 9476023
+2025-06-05 14:10:40 - scraper - INFO - [77/351] Processing: 9475959
+2025-06-05 14:10:40 - scraper - ERROR - Failed to fetch https://turbo.az/autos9475959 - Status code: 404
+2025-06-05 14:10:40 - scraper - WARNING - Failed to process item: 9475959
+2025-06-05 14:10:40 - scraper - INFO - [78/351] Processing: 9438978
+2025-06-05 14:10:40 - scraper - ERROR - Failed to fetch https://turbo.az/autos9438978 - Status code: 404
+2025-06-05 14:10:40 - scraper - WARNING - Failed to process item: 9438978
+2025-06-05 14:10:40 - scraper - INFO - [79/351] Processing: 9301486
+2025-06-05 14:10:41 - scraper - ERROR - Failed to fetch https://turbo.az/autos9301486 - Status code: 404
+2025-06-05 14:10:41 - scraper - WARNING - Failed to process item: 9301486
+2025-06-05 14:10:41 - scraper - INFO - [80/351] Processing: 9198097
+2025-06-05 14:10:41 - scraper - ERROR - Failed to fetch https://turbo.az/autos9198097 - Status code: 404
+2025-06-05 14:10:41 - scraper - WARNING - Failed to process item: 9198097
+2025-06-05 14:10:41 - scraper - INFO - [81/351] Processing: 8943401
+2025-06-05 14:10:41 - scraper - ERROR - Failed to fetch https://turbo.az/autos8943401 - Status code: 404
+2025-06-05 14:10:41 - scraper - WARNING - Failed to process item: 8943401
+2025-06-05 14:10:41 - scraper - INFO - [82/351] Processing: 9497703
+2025-06-05 14:10:41 - scraper - ERROR - Failed to fetch https://turbo.az/autos9497703 - Status code: 404
+2025-06-05 14:10:41 - scraper - WARNING - Failed to process item: 9497703
+2025-06-05 14:10:41 - scraper - INFO - [83/351] Processing: 9514001
+2025-06-05 14:10:42 - scraper - ERROR - Failed to fetch https://turbo.az/autos9514001 - Status code: 404
+2025-06-05 14:10:42 - scraper - WARNING - Failed to process item: 9514001
+2025-06-05 14:10:42 - scraper - INFO - [84/351] Processing: 9494544
+2025-06-05 14:10:42 - scraper - ERROR - Failed to fetch https://turbo.az/autos9494544 - Status code: 404
+2025-06-05 14:10:42 - scraper - WARNING - Failed to process item: 9494544
+2025-06-05 14:10:42 - scraper - INFO - [85/351] Processing: 9510860
+2025-06-05 14:10:42 - scraper - ERROR - Failed to fetch https://turbo.az/autos9510860 - Status code: 404
+2025-06-05 14:10:42 - scraper - WARNING - Failed to process item: 9510860
+2025-06-05 14:10:42 - scraper - INFO - [86/351] Processing: 8801689
+2025-06-05 14:10:42 - scraper - ERROR - Failed to fetch https://turbo.az/autos8801689 - Status code: 404
+2025-06-05 14:10:42 - scraper - WARNING - Failed to process item: 8801689
+2025-06-05 14:10:42 - scraper - INFO - [87/351] Processing: 9491359
+2025-06-05 14:10:43 - scraper - ERROR - Failed to fetch https://turbo.az/autos9491359 - Status code: 404
+2025-06-05 14:10:43 - scraper - WARNING - Failed to process item: 9491359
+2025-06-05 14:10:43 - scraper - INFO - [88/351] Processing: 9469782
+2025-06-05 14:10:43 - scraper - ERROR - Failed to fetch https://turbo.az/autos9469782 - Status code: 404
+2025-06-05 14:10:43 - scraper - WARNING - Failed to process item: 9469782
+2025-06-05 14:10:43 - scraper - INFO - [89/351] Processing: 9348035
+2025-06-05 14:10:43 - scraper - ERROR - Failed to fetch https://turbo.az/autos9348035 - Status code: 404
+2025-06-05 14:10:43 - scraper - WARNING - Failed to process item: 9348035
+2025-06-05 14:10:43 - scraper - INFO - [90/351] Processing: 8969965
+2025-06-05 14:10:43 - scraper - ERROR - Failed to fetch https://turbo.az/autos8969965 - Status code: 404
+2025-06-05 14:10:43 - scraper - WARNING - Failed to process item: 8969965
+2025-06-05 14:10:43 - scraper - INFO - [91/351] Processing: 9491805
+2025-06-05 14:10:44 - scraper - ERROR - Failed to fetch https://turbo.az/autos9491805 - Status code: 404
+2025-06-05 14:10:44 - scraper - WARNING - Failed to process item: 9491805
+2025-06-05 14:10:44 - scraper - INFO - [92/351] Processing: 9514010
+2025-06-05 14:10:44 - scraper - ERROR - Failed to fetch https://turbo.az/autos9514010 - Status code: 404
+2025-06-05 14:10:44 - scraper - WARNING - Failed to process item: 9514010
+2025-06-05 14:10:44 - scraper - INFO - [93/351] Processing: 9466479
+2025-06-05 14:10:44 - scraper - ERROR - Failed to fetch https://turbo.az/autos9466479 - Status code: 404
+2025-06-05 14:10:44 - scraper - WARNING - Failed to process item: 9466479
+2025-06-05 14:10:44 - scraper - INFO - [94/351] Processing: 9409737
+2025-06-05 14:10:44 - scraper - ERROR - Failed to fetch https://turbo.az/autos9409737 - Status code: 404
+2025-06-05 14:10:44 - scraper - WARNING - Failed to process item: 9409737
+2025-06-05 14:10:44 - scraper - INFO - [95/351] Processing: 9496668
+2025-06-05 14:10:45 - scraper - ERROR - Failed to fetch https://turbo.az/autos9496668 - Status code: 404
+2025-06-05 14:10:45 - scraper - WARNING - Failed to process item: 9496668
+2025-06-05 14:10:45 - scraper - INFO - [96/351] Processing: 9490287
+2025-06-05 14:10:45 - scraper - ERROR - Failed to fetch https://turbo.az/autos9490287 - Status code: 404
+2025-06-05 14:10:45 - scraper - WARNING - Failed to process item: 9490287
+2025-06-05 14:10:45 - scraper - INFO - [97/351] Processing: 9453454
+2025-06-05 14:10:45 - scraper - ERROR - Failed to fetch https://turbo.az/autos9453454 - Status code: 404
+2025-06-05 14:10:45 - scraper - WARNING - Failed to process item: 9453454
+2025-06-05 14:10:45 - scraper - INFO - [98/351] Processing: 9464678
+2025-06-05 14:10:45 - scraper - ERROR - Failed to fetch https://turbo.az/autos9464678 - Status code: 404
+2025-06-05 14:10:45 - scraper - WARNING - Failed to process item: 9464678
+2025-06-05 14:10:45 - scraper - INFO - [99/351] Processing: 9446372
+2025-06-05 14:10:45 - scraper - ERROR - Failed to fetch https://turbo.az/autos9446372 - Status code: 404
+2025-06-05 14:10:45 - scraper - WARNING - Failed to process item: 9446372
+2025-06-05 14:10:45 - scraper - INFO - [100/351] Processing: 9489430
+2025-06-05 14:10:46 - scraper - ERROR - Failed to fetch https://turbo.az/autos9489430 - Status code: 404
+2025-06-05 14:10:46 - scraper - WARNING - Failed to process item: 9489430
+2025-06-05 14:10:46 - scraper - INFO - [101/351] Processing: 9345203
+2025-06-05 14:10:46 - scraper - ERROR - Failed to fetch https://turbo.az/autos9345203 - Status code: 404
+2025-06-05 14:10:46 - scraper - WARNING - Failed to process item: 9345203
+2025-06-05 14:10:46 - scraper - INFO - [102/351] Processing: 9495388
+2025-06-05 14:10:46 - scraper - ERROR - Failed to fetch https://turbo.az/autos9495388 - Status code: 404
+2025-06-05 14:10:46 - scraper - WARNING - Failed to process item: 9495388
+2025-06-05 14:10:46 - scraper - INFO - [103/351] Processing: 9292231
+2025-06-05 14:10:46 - scraper - ERROR - Failed to fetch https://turbo.az/autos9292231 - Status code: 404
+2025-06-05 14:10:46 - scraper - WARNING - Failed to process item: 9292231
+2025-06-05 14:10:46 - scraper - INFO - [104/351] Processing: 9499782
+2025-06-05 14:10:47 - scraper - ERROR - Failed to fetch https://turbo.az/autos9499782 - Status code: 404
+2025-06-05 14:10:47 - scraper - WARNING - Failed to process item: 9499782
+2025-06-05 14:10:47 - scraper - INFO - [105/351] Processing: 9469150
+2025-06-05 14:10:47 - scraper - ERROR - Failed to fetch https://turbo.az/autos9469150 - Status code: 404
+2025-06-05 14:10:47 - scraper - WARNING - Failed to process item: 9469150
+2025-06-05 14:10:47 - scraper - INFO - [106/351] Processing: 9185043
+2025-06-05 14:10:47 - scraper - ERROR - Failed to fetch https://turbo.az/autos9185043 - Status code: 404
+2025-06-05 14:10:47 - scraper - WARNING - Failed to process item: 9185043
+2025-06-05 14:10:47 - scraper - INFO - [107/351] Processing: 9514019
+2025-06-05 14:11:15 - scraper - INFO - Starting to process 351 items
+2025-06-05 14:11:15 - scraper - INFO - [1/351] Processing: 8979422
+2025-06-05 14:11:15 - scraper - ERROR - Failed to fetch https://turbo.az/autos8979422 - Status code: 404
+2025-06-05 14:11:15 - scraper - WARNING - Failed to process item: 8979422
+2025-06-05 14:11:15 - scraper - INFO - [2/351] Processing: 9501972
+2025-06-05 14:11:15 - scraper - ERROR - Failed to fetch https://turbo.az/autos9501972 - Status code: 404
+2025-06-05 14:11:15 - scraper - WARNING - Failed to process item: 9501972
+2025-06-05 14:11:15 - scraper - INFO - [3/351] Processing: 9212075
+2025-06-05 14:11:15 - scraper - ERROR - Failed to fetch https://turbo.az/autos9212075 - Status code: 404
+2025-06-05 14:11:15 - scraper - WARNING - Failed to process item: 9212075
+2025-06-05 14:11:15 - scraper - INFO - [4/351] Processing: 9483311
+2025-06-05 14:11:16 - scraper - ERROR - Failed to fetch https://turbo.az/autos9483311 - Status code: 404
+2025-06-05 14:11:16 - scraper - WARNING - Failed to process item: 9483311
+2025-06-05 14:11:16 - scraper - INFO - [5/351] Processing: 9424706
+2025-06-05 14:11:16 - scraper - ERROR - Failed to fetch https://turbo.az/autos9424706 - Status code: 404
+2025-06-05 14:11:16 - scraper - WARNING - Failed to process item: 9424706
+2025-06-05 14:11:16 - scraper - INFO - [6/351] Processing: 9426678
+2025-06-05 14:11:16 - scraper - ERROR - Failed to fetch https://turbo.az/autos9426678 - Status code: 404
+2025-06-05 14:11:16 - scraper - WARNING - Failed to process item: 9426678
+2025-06-05 14:11:16 - scraper - INFO - [7/351] Processing: 9206548
+2025-06-05 14:11:17 - scraper - ERROR - Failed to fetch https://turbo.az/autos9206548 - Status code: 404
+2025-06-05 14:11:17 - scraper - WARNING - Failed to process item: 9206548
+2025-06-05 14:11:17 - scraper - INFO - [8/351] Processing: 9353629
+2025-06-05 14:11:17 - scraper - ERROR - Failed to fetch https://turbo.az/autos9353629 - Status code: 404
+2025-06-05 14:11:17 - scraper - WARNING - Failed to process item: 9353629
+2025-06-05 14:11:17 - scraper - INFO - [9/351] Processing: 9474622
+2025-06-05 14:11:17 - scraper - ERROR - Failed to fetch https://turbo.az/autos9474622 - Status code: 404
+2025-06-05 14:11:17 - scraper - WARNING - Failed to process item: 9474622
+2025-06-05 14:11:17 - scraper - INFO - [10/351] Processing: 9467382
+2025-06-05 14:11:17 - scraper - ERROR - Failed to fetch https://turbo.az/autos9467382 - Status code: 404
+2025-06-05 14:11:17 - scraper - WARNING - Failed to process item: 9467382
+2025-06-05 14:11:17 - scraper - INFO - [11/351] Processing: 9443723
+2025-06-05 14:11:18 - scraper - ERROR - Failed to fetch https://turbo.az/autos9443723 - Status code: 404
+2025-06-05 14:11:18 - scraper - WARNING - Failed to process item: 9443723
+2025-06-05 14:11:18 - scraper - INFO - [12/351] Processing: 9510302
+2025-06-05 14:11:18 - scraper - ERROR - Failed to fetch https://turbo.az/autos9510302 - Status code: 404
+2025-06-05 14:11:18 - scraper - WARNING - Failed to process item: 9510302
+2025-06-05 14:11:18 - scraper - INFO - [13/351] Processing: 8759870
+2025-06-05 14:11:18 - scraper - ERROR - Failed to fetch https://turbo.az/autos8759870 - Status code: 404
+2025-06-05 14:11:18 - scraper - WARNING - Failed to process item: 8759870
+2025-06-05 14:11:18 - scraper - INFO - [14/351] Processing: 9175085
+2025-06-05 14:11:18 - scraper - ERROR - Failed to fetch https://turbo.az/autos9175085 - Status code: 404
+2025-06-05 14:11:18 - scraper - WARNING - Failed to process item: 9175085
+2025-06-05 14:11:18 - scraper - INFO - [15/351] Processing: 9449905
+2025-06-05 14:11:18 - scraper - ERROR - Failed to fetch https://turbo.az/autos9449905 - Status code: 404
+2025-06-05 14:11:18 - scraper - WARNING - Failed to process item: 9449905
+2025-06-05 14:11:18 - scraper - INFO - [16/351] Processing: 9453599
+2025-06-05 14:11:19 - scraper - ERROR - Failed to fetch https://turbo.az/autos9453599 - Status code: 404
+2025-06-05 14:11:19 - scraper - WARNING - Failed to process item: 9453599
+2025-06-05 14:11:19 - scraper - INFO - [17/351] Processing: 9497843
+2025-06-05 14:11:19 - scraper - ERROR - Failed to fetch https://turbo.az/autos9497843 - Status code: 404
+2025-06-05 14:11:19 - scraper - WARNING - Failed to process item: 9497843
+2025-06-05 14:11:19 - scraper - INFO - [18/351] Processing: 9461977
+2025-06-05 14:11:19 - scraper - ERROR - Failed to fetch https://turbo.az/autos9461977 - Status code: 404
+2025-06-05 14:11:19 - scraper - WARNING - Failed to process item: 9461977
+2025-06-05 14:11:19 - scraper - INFO - [19/351] Processing: 9033391
+2025-06-05 14:11:19 - scraper - ERROR - Failed to fetch https://turbo.az/autos9033391 - Status code: 404
+2025-06-05 14:11:19 - scraper - WARNING - Failed to process item: 9033391
+2025-06-05 14:11:19 - scraper - INFO - [20/351] Processing: 9068483
+2025-06-05 14:11:20 - scraper - ERROR - Failed to fetch https://turbo.az/autos9068483 - Status code: 404
+2025-06-05 14:11:20 - scraper - WARNING - Failed to process item: 9068483
+2025-06-05 14:11:20 - scraper - INFO - [21/351] Processing: 9502920
+2025-06-05 14:11:20 - scraper - ERROR - Failed to fetch https://turbo.az/autos9502920 - Status code: 404
+2025-06-05 14:11:20 - scraper - WARNING - Failed to process item: 9502920
+2025-06-05 14:11:20 - scraper - INFO - [22/351] Processing: 9506761
+2025-06-05 14:11:20 - scraper - ERROR - Failed to fetch https://turbo.az/autos9506761 - Status code: 404
+2025-06-05 14:11:20 - scraper - WARNING - Failed to process item: 9506761
+2025-06-05 14:11:20 - scraper - INFO - [23/351] Processing: 9469661
+2025-06-05 14:11:20 - scraper - ERROR - Failed to fetch https://turbo.az/autos9469661 - Status code: 404
+2025-06-05 14:11:20 - scraper - WARNING - Failed to process item: 9469661
+2025-06-05 14:11:20 - scraper - INFO - [24/351] Processing: 8865546
+2025-06-05 14:11:21 - scraper - ERROR - Failed to fetch https://turbo.az/autos8865546 - Status code: 404
+2025-06-05 14:11:21 - scraper - WARNING - Failed to process item: 8865546
+2025-06-05 14:11:21 - scraper - INFO - [25/351] Processing: 9513999
+2025-06-05 14:11:21 - scraper - ERROR - Failed to fetch https://turbo.az/autos9513999 - Status code: 404
+2025-06-05 14:11:21 - scraper - WARNING - Failed to process item: 9513999
+2025-06-05 14:11:21 - scraper - INFO - [26/351] Processing: 9514014
+2025-06-05 14:11:21 - scraper - ERROR - Failed to fetch https://turbo.az/autos9514014 - Status code: 404
+2025-06-05 14:11:21 - scraper - WARNING - Failed to process item: 9514014
+2025-06-05 14:11:21 - scraper - INFO - [27/351] Processing: 9265664
+2025-06-05 14:11:21 - scraper - ERROR - Failed to fetch https://turbo.az/autos9265664 - Status code: 404
+2025-06-05 14:11:21 - scraper - WARNING - Failed to process item: 9265664
+2025-06-05 14:11:21 - scraper - INFO - [28/351] Processing: 9288167
+2025-06-05 14:11:22 - scraper - ERROR - Failed to fetch https://turbo.az/autos9288167 - Status code: 404
+2025-06-05 14:11:22 - scraper - WARNING - Failed to process item: 9288167
+2025-06-05 14:11:22 - scraper - INFO - [29/351] Processing: 9467454
+2025-06-05 14:11:22 - scraper - ERROR - Failed to fetch https://turbo.az/autos9467454 - Status code: 404
+2025-06-05 14:11:22 - scraper - WARNING - Failed to process item: 9467454
+2025-06-05 14:11:22 - scraper - INFO - [30/351] Processing: 9512361
+2025-06-05 14:11:22 - scraper - ERROR - Failed to fetch https://turbo.az/autos9512361 - Status code: 404
+2025-06-05 14:11:22 - scraper - WARNING - Failed to process item: 9512361
+2025-06-05 14:11:22 - scraper - INFO - [31/351] Processing: 9499223
+2025-06-05 14:11:22 - scraper - ERROR - Failed to fetch https://turbo.az/autos9499223 - Status code: 404
+2025-06-05 14:11:22 - scraper - WARNING - Failed to process item: 9499223
+2025-06-05 14:11:22 - scraper - INFO - [32/351] Processing: 9501825
+2025-06-05 14:11:23 - scraper - ERROR - Failed to fetch https://turbo.az/autos9501825 - Status code: 404
+2025-06-05 14:11:23 - scraper - WARNING - Failed to process item: 9501825
+2025-06-05 14:11:23 - scraper - INFO - [33/351] Processing: 8494001
+2025-06-05 14:11:23 - scraper - ERROR - Failed to fetch https://turbo.az/autos8494001 - Status code: 404
+2025-06-05 14:11:23 - scraper - WARNING - Failed to process item: 8494001
+2025-06-05 14:11:23 - scraper - INFO - [34/351] Processing: 9157142
+2025-06-05 14:11:23 - scraper - ERROR - Failed to fetch https://turbo.az/autos9157142 - Status code: 404
+2025-06-05 14:11:23 - scraper - WARNING - Failed to process item: 9157142
+2025-06-05 14:11:23 - scraper - INFO - [35/351] Processing: 9068500
+2025-06-05 14:11:23 - scraper - ERROR - Failed to fetch https://turbo.az/autos9068500 - Status code: 404
+2025-06-05 14:11:23 - scraper - WARNING - Failed to process item: 9068500
+2025-06-05 14:11:23 - scraper - INFO - [36/351] Processing: 9431796
+2025-06-05 14:11:24 - scraper - ERROR - Failed to fetch https://turbo.az/autos9431796 - Status code: 404
+2025-06-05 14:11:24 - scraper - WARNING - Failed to process item: 9431796
+2025-06-05 14:11:24 - scraper - INFO - [37/351] Processing: 9504193
+2025-06-05 14:11:24 - scraper - ERROR - Failed to fetch https://turbo.az/autos9504193 - Status code: 404
+2025-06-05 14:11:24 - scraper - WARNING - Failed to process item: 9504193
+2025-06-05 14:11:24 - scraper - INFO - [38/351] Processing: 9454098
+2025-06-05 14:11:24 - scraper - ERROR - Failed to fetch https://turbo.az/autos9454098 - Status code: 404
+2025-06-05 14:11:24 - scraper - WARNING - Failed to process item: 9454098
+2025-06-05 14:11:24 - scraper - INFO - [39/351] Processing: 9491656
+2025-06-05 14:11:24 - scraper - ERROR - Failed to fetch https://turbo.az/autos9491656 - Status code: 404
+2025-06-05 14:11:24 - scraper - WARNING - Failed to process item: 9491656
+2025-06-05 14:11:24 - scraper - INFO - [40/351] Processing: 9504678
+2025-06-05 14:11:24 - scraper - ERROR - Failed to fetch https://turbo.az/autos9504678 - Status code: 404
+2025-06-05 14:11:24 - scraper - WARNING - Failed to process item: 9504678
+2025-06-05 14:11:24 - scraper - INFO - [41/351] Processing: 9505826
+2025-06-05 14:11:25 - scraper - ERROR - Failed to fetch https://turbo.az/autos9505826 - Status code: 404
+2025-06-05 14:11:25 - scraper - WARNING - Failed to process item: 9505826
+2025-06-05 14:11:25 - scraper - INFO - [42/351] Processing: 8471605
+2025-06-05 14:12:08 - scraper - INFO - Starting to process 351 items
+2025-06-05 14:12:08 - scraper - INFO - [1/351] Processing: 8979422
+2025-06-05 14:12:08 - scraper - INFO - Successfully processed item: 8979422
+2025-06-05 14:12:08 - scraper - INFO - [2/351] Processing: 9501972
+2025-06-05 14:12:09 - scraper - INFO - Successfully processed item: 9501972
+2025-06-05 14:12:09 - scraper - INFO - [3/351] Processing: 9212075
+2025-06-05 14:12:10 - scraper - INFO - Successfully processed item: 9212075
+2025-06-05 14:12:10 - scraper - INFO - [4/351] Processing: 9483311
+2025-06-05 14:12:10 - scraper - INFO - Successfully processed item: 9483311
+2025-06-05 14:12:10 - scraper - INFO - [5/351] Processing: 9424706
+2025-06-05 14:12:12 - scraper - INFO - Successfully processed item: 9424706
+2025-06-05 14:12:12 - scraper - INFO - [6/351] Processing: 9426678
+2025-06-05 14:12:12 - scraper - INFO - Successfully processed item: 9426678
+2025-06-05 14:12:12 - scraper - INFO - [7/351] Processing: 9206548
+2025-06-05 14:12:13 - scraper - INFO - Successfully processed item: 9206548
+2025-06-05 14:12:13 - scraper - INFO - [8/351] Processing: 9353629
+2025-06-05 14:12:14 - scraper - INFO - Successfully processed item: 9353629
+2025-06-05 14:12:14 - scraper - INFO - [9/351] Processing: 9474622
+2025-06-05 14:12:14 - scraper - INFO - Successfully processed item: 9474622
+2025-06-05 14:12:14 - scraper - INFO - [10/351] Processing: 9467382
+2025-06-05 14:12:15 - scraper - INFO - Successfully processed item: 9467382
+2025-06-05 14:12:15 - scraper - INFO - [11/351] Processing: 9443723
+2025-06-05 14:12:16 - scraper - INFO - Successfully processed item: 9443723
+2025-06-05 14:12:16 - scraper - INFO - [12/351] Processing: 9510302
+2025-06-05 14:12:16 - scraper - INFO - Successfully processed item: 9510302
+2025-06-05 14:12:16 - scraper - INFO - [13/351] Processing: 8759870
+2025-06-05 14:12:17 - scraper - INFO - Successfully processed item: 8759870
+2025-06-05 14:12:17 - scraper - INFO - [14/351] Processing: 9175085
+2025-06-05 14:12:18 - scraper - INFO - Successfully processed item: 9175085
+2025-06-05 14:12:18 - scraper - INFO - [15/351] Processing: 9449905
+2025-06-05 14:12:19 - scraper - INFO - Successfully processed item: 9449905
+2025-06-05 14:12:19 - scraper - INFO - [16/351] Processing: 9453599
+2025-06-05 14:12:20 - scraper - INFO - Successfully processed item: 9453599
+2025-06-05 14:12:20 - scraper - INFO - [17/351] Processing: 9497843
+2025-06-05 14:12:20 - scraper - INFO - Successfully processed item: 9497843
+2025-06-05 14:12:20 - scraper - INFO - [18/351] Processing: 9461977
+2025-06-05 14:12:21 - scraper - INFO - Successfully processed item: 9461977
+2025-06-05 14:12:21 - scraper - INFO - [19/351] Processing: 9033391
+2025-06-05 14:12:22 - scraper - INFO - Successfully processed item: 9033391
+2025-06-05 14:12:22 - scraper - INFO - [20/351] Processing: 9068483
+2025-06-05 14:12:23 - scraper - INFO - Successfully processed item: 9068483
+2025-06-05 14:12:23 - scraper - INFO - [21/351] Processing: 9502920
+2025-06-05 14:12:23 - scraper - INFO - Successfully processed item: 9502920
+2025-06-05 14:12:23 - scraper - INFO - [22/351] Processing: 9506761
+2025-06-05 14:12:24 - scraper - INFO - Successfully processed item: 9506761
+2025-06-05 14:12:24 - scraper - INFO - [23/351] Processing: 9469661
+2025-06-05 14:12:25 - scraper - INFO - Successfully processed item: 9469661
+2025-06-05 14:12:25 - scraper - INFO - [24/351] Processing: 8865546
+2025-06-05 14:12:25 - scraper - INFO - Successfully processed item: 8865546
+2025-06-05 14:12:25 - scraper - INFO - [25/351] Processing: 9513999
+2025-06-05 14:12:26 - scraper - INFO - Successfully processed item: 9513999
+2025-06-05 14:12:26 - scraper - INFO - [26/351] Processing: 9514014
+2025-06-05 14:12:27 - scraper - INFO - Successfully processed item: 9514014
+2025-06-05 14:12:27 - scraper - INFO - [27/351] Processing: 9265664
+2025-06-05 14:12:27 - scraper - INFO - Successfully processed item: 9265664
+2025-06-05 14:12:27 - scraper - INFO - [28/351] Processing: 9288167
+2025-06-05 14:12:28 - scraper - INFO - Successfully processed item: 9288167
+2025-06-05 14:12:28 - scraper - INFO - [29/351] Processing: 9467454
+2025-06-05 14:12:29 - scraper - INFO - Successfully processed item: 9467454
+2025-06-05 14:12:29 - scraper - INFO - [30/351] Processing: 9512361
+2025-06-05 14:12:30 - scraper - INFO - Successfully processed item: 9512361
+2025-06-05 14:12:30 - scraper - INFO - [31/351] Processing: 9499223
+2025-06-05 14:12:30 - scraper - INFO - Successfully processed item: 9499223
+2025-06-05 14:12:30 - scraper - INFO - [32/351] Processing: 9501825
+2025-06-05 14:12:31 - scraper - INFO - Successfully processed item: 9501825
+2025-06-05 14:12:31 - scraper - INFO - [33/351] Processing: 8494001
+2025-06-05 14:12:32 - scraper - INFO - Successfully processed item: 8494001
+2025-06-05 14:12:32 - scraper - INFO - [34/351] Processing: 9157142
+2025-06-05 14:12:32 - scraper - INFO - Successfully processed item: 9157142
+2025-06-05 14:12:32 - scraper - INFO - [35/351] Processing: 9068500
+2025-06-05 14:12:33 - scraper - INFO - Successfully processed item: 9068500
+2025-06-05 14:12:33 - scraper - INFO - [36/351] Processing: 9431796
+2025-06-05 14:12:40 - scraper - INFO - Starting to scrape item IDs (max pages: 2)
+2025-06-05 14:12:41 - scraper - INFO - Found 36 new items on page 1
+2025-06-05 14:12:43 - scraper - INFO - Found 36 new items on page 2
+2025-06-05 14:12:43 - scraper - INFO - Reached max pages limit (2)
+2025-06-05 14:12:43 - scraper - INFO - Finished scraping. Found 72 unique items
+2025-06-05 14:12:44 - scraper - INFO - Starting to process 72 items
+2025-06-05 14:12:44 - scraper - INFO - [1/72] Processing: 9295762
+2025-06-05 14:12:45 - scraper - INFO - Successfully processed item: 9295762
+2025-06-05 14:12:45 - scraper - INFO - [2/72] Processing: 9472791
+2025-06-05 14:12:46 - scraper - INFO - Successfully processed item: 9472791
+2025-06-05 14:12:46 - scraper - INFO - [3/72] Processing: 9489878
+2025-06-05 14:12:46 - scraper - INFO - Successfully processed item: 9489878
+2025-06-05 14:12:46 - scraper - INFO - [4/72] Processing: 8984591
+2025-06-05 14:12:47 - scraper - INFO - Successfully processed item: 8984591
+2025-06-05 14:12:47 - scraper - INFO - [5/72] Processing: 9339143
+2025-06-05 14:12:48 - scraper - INFO - Successfully processed item: 9339143
+2025-06-05 14:12:48 - scraper - INFO - [6/72] Processing: 9426678
+2025-06-05 14:12:48 - scraper - INFO - Successfully processed item: 9426678
+2025-06-05 14:12:48 - scraper - INFO - [7/72] Processing: 9499573
+2025-06-05 14:12:49 - scraper - INFO - Successfully processed item: 9499573
+2025-06-05 14:12:49 - scraper - INFO - [8/72] Processing: 8506809
+2025-06-05 14:12:50 - scraper - INFO - Successfully processed item: 8506809
+2025-06-05 14:12:50 - scraper - INFO - [9/72] Processing: 9413474
+2025-06-05 14:12:50 - scraper - INFO - Successfully processed item: 9413474
+2025-06-05 14:12:50 - scraper - INFO - [10/72] Processing: 9514112
+2025-06-05 14:12:51 - scraper - INFO - Successfully processed item: 9514112
+2025-06-05 14:12:51 - scraper - INFO - [11/72] Processing: 9461447
+2025-06-05 14:12:51 - scraper - INFO - Successfully processed item: 9461447
+2025-06-05 14:12:51 - scraper - INFO - [12/72] Processing: 9299521
+2025-06-05 14:12:52 - scraper - INFO - Successfully processed item: 9299521
+2025-06-05 14:12:52 - scraper - INFO - [13/72] Processing: 9500807
+2025-06-05 14:12:53 - scraper - INFO - Successfully processed item: 9500807
+2025-06-05 14:12:53 - scraper - INFO - [14/72] Processing: 9305706
+2025-06-05 14:12:53 - scraper - INFO - Successfully processed item: 9305706
+2025-06-05 14:12:53 - scraper - INFO - [15/72] Processing: 9490504
+2025-06-05 14:12:54 - scraper - INFO - Successfully processed item: 9490504
+2025-06-05 14:12:54 - scraper - INFO - [16/72] Processing: 9295744
+2025-06-05 14:12:54 - scraper - INFO - Successfully processed item: 9295744
+2025-06-05 14:12:54 - scraper - INFO - [17/72] Processing: 9483665
+2025-06-05 14:12:55 - scraper - INFO - Successfully processed item: 9483665
+2025-06-05 14:12:55 - scraper - INFO - [18/72] Processing: 9487945
+2025-06-05 14:12:56 - scraper - INFO - Successfully processed item: 9487945
+2025-06-05 14:12:56 - scraper - INFO - [19/72] Processing: 9387015
+2025-06-05 14:12:56 - scraper - INFO - Successfully processed item: 9387015
+2025-06-05 14:12:56 - scraper - INFO - [20/72] Processing: 8298133
+2025-06-05 14:12:57 - scraper - INFO - Successfully processed item: 8298133
+2025-06-05 14:12:57 - scraper - INFO - [21/72] Processing: 9448165
+2025-06-05 14:12:57 - scraper - INFO - Successfully processed item: 9448165
+2025-06-05 14:12:57 - scraper - INFO - [22/72] Processing: 9391756
+2025-06-05 14:12:58 - scraper - INFO - Successfully processed item: 9391756
+2025-06-05 14:12:58 - scraper - INFO - [23/72] Processing: 8672580
+2025-06-05 14:12:59 - scraper - INFO - Successfully processed item: 8672580
+2025-06-05 14:12:59 - scraper - INFO - [24/72] Processing: 9510225
+2025-06-05 14:13:00 - scraper - INFO - Successfully processed item: 9510225
+2025-06-05 14:13:00 - scraper - INFO - [25/72] Processing: 9086590
+2025-06-05 14:13:00 - scraper - INFO - Successfully processed item: 9086590
+2025-06-05 14:13:00 - scraper - INFO - [26/72] Processing: 9514118
+2025-06-05 14:13:01 - scraper - INFO - Successfully processed item: 9514118
+2025-06-05 14:13:01 - scraper - INFO - [27/72] Processing: 9425953
+2025-06-05 14:13:01 - scraper - INFO - Successfully processed item: 9425953
+2025-06-05 14:13:01 - scraper - INFO - [28/72] Processing: 9504654
+2025-06-05 14:13:02 - scraper - INFO - Successfully processed item: 9504654
+2025-06-05 14:13:02 - scraper - INFO - [29/72] Processing: 9123234
+2025-06-05 14:13:03 - scraper - INFO - Successfully processed item: 9123234
+2025-06-05 14:13:03 - scraper - INFO - [30/72] Processing: 9487786
+2025-06-05 14:13:05 - scraper - INFO - Successfully processed item: 9487786
+2025-06-05 14:13:05 - scraper - INFO - [31/72] Processing: 9472821
+2025-06-05 14:13:06 - scraper - INFO - Successfully processed item: 9472821
+2025-06-05 14:13:06 - scraper - INFO - [32/72] Processing: 8818898
+2025-06-05 14:13:07 - scraper - INFO - Successfully processed item: 8818898
+2025-06-05 14:13:07 - scraper - INFO - [33/72] Processing: 9479738
+2025-06-05 14:13:07 - scraper - INFO - Successfully processed item: 9479738
+2025-06-05 14:13:07 - scraper - INFO - [34/72] Processing: 9437556
+2025-06-05 14:13:08 - scraper - INFO - Successfully processed item: 9437556
+2025-06-05 14:13:08 - scraper - INFO - [35/72] Processing: 9511172
+2025-06-05 14:13:08 - scraper - INFO - Successfully processed item: 9511172
+2025-06-05 14:13:08 - scraper - INFO - [36/72] Processing: 9473055
+2025-06-05 14:13:09 - scraper - INFO - Successfully processed item: 9473055
+2025-06-05 14:13:09 - scraper - INFO - [37/72] Processing: 9442785
+2025-06-05 14:13:09 - scraper - INFO - Successfully processed item: 9442785
+2025-06-05 14:13:09 - scraper - INFO - [38/72] Processing: 9253375
+2025-06-05 14:13:10 - scraper - INFO - Successfully processed item: 9253375
+2025-06-05 14:13:10 - scraper - INFO - [39/72] Processing: 8951110
+2025-06-05 14:13:11 - scraper - INFO - Successfully processed item: 8951110
+2025-06-05 14:13:11 - scraper - INFO - [40/72] Processing: 9118500
+2025-06-05 14:13:12 - scraper - INFO - Successfully processed item: 9118500
+2025-06-05 14:13:12 - scraper - INFO - [41/72] Processing: 9463842
+2025-06-05 14:13:12 - scraper - INFO - Successfully processed item: 9463842
+2025-06-05 14:13:12 - scraper - INFO - [42/72] Processing: 9439517
+2025-06-05 14:13:13 - scraper - INFO - Successfully processed item: 9439517
+2025-06-05 14:13:13 - scraper - INFO - [43/72] Processing: 9497379
+2025-06-05 14:13:14 - scraper - INFO - Successfully processed item: 9497379
+2025-06-05 14:13:14 - scraper - INFO - [44/72] Processing: 8769731
+2025-06-05 14:13:14 - scraper - INFO - Successfully processed item: 8769731
+2025-06-05 14:13:14 - scraper - INFO - [45/72] Processing: 9478532
+2025-06-05 14:13:15 - scraper - INFO - Successfully processed item: 9478532
+2025-06-05 14:13:15 - scraper - INFO - [46/72] Processing: 9514123
+2025-06-05 14:13:16 - scraper - INFO - Successfully processed item: 9514123
+2025-06-05 14:13:16 - scraper - INFO - [47/72] Processing: 9492573
+2025-06-05 14:13:16 - scraper - INFO - Successfully processed item: 9492573
+2025-06-05 14:13:16 - scraper - INFO - [48/72] Processing: 9487317
+2025-06-05 14:13:17 - scraper - INFO - Successfully processed item: 9487317
+2025-06-05 14:13:17 - scraper - INFO - [49/72] Processing: 9409383
+2025-06-05 14:13:17 - scraper - INFO - Successfully processed item: 9409383
+2025-06-05 14:13:17 - scraper - INFO - [50/72] Processing: 8789808
+2025-06-05 14:13:18 - scraper - INFO - Successfully processed item: 8789808
+2025-06-05 14:13:18 - scraper - INFO - [51/72] Processing: 9514122
+2025-06-05 14:13:18 - scraper - INFO - Successfully processed item: 9514122
+2025-06-05 14:13:18 - scraper - INFO - [52/72] Processing: 9514127
+2025-06-05 14:13:19 - scraper - INFO - Successfully processed item: 9514127
+2025-06-05 14:13:19 - scraper - INFO - [53/72] Processing: 9498184
+2025-06-05 14:13:20 - scraper - INFO - Successfully processed item: 9498184
+2025-06-05 14:13:20 - scraper - INFO - [54/72] Processing: 8291596
+2025-06-05 14:13:20 - scraper - INFO - Successfully processed item: 8291596
+2025-06-05 14:13:20 - scraper - INFO - [55/72] Processing: 9514125
+2025-06-05 14:13:21 - scraper - INFO - Successfully processed item: 9514125
+2025-06-05 14:13:21 - scraper - INFO - [56/72] Processing: 9467837
+2025-06-05 14:13:22 - scraper - INFO - Successfully processed item: 9467837
+2025-06-05 14:13:22 - scraper - INFO - [57/72] Processing: 9480294
+2025-06-05 14:13:22 - scraper - INFO - Successfully processed item: 9480294
+2025-06-05 14:13:22 - scraper - INFO - [58/72] Processing: 9495147
+2025-06-05 14:13:23 - scraper - INFO - Successfully processed item: 9495147
+2025-06-05 14:13:23 - scraper - INFO - [59/72] Processing: 9500935
+2025-06-05 14:13:24 - scraper - INFO - Successfully processed item: 9500935
+2025-06-05 14:13:24 - scraper - INFO - [60/72] Processing: 9276375
+2025-06-05 14:13:24 - scraper - INFO - Successfully processed item: 9276375
+2025-06-05 14:13:24 - scraper - INFO - [61/72] Processing: 9464140
+2025-06-05 14:13:25 - scraper - INFO - Successfully processed item: 9464140
+2025-06-05 14:13:25 - scraper - INFO - [62/72] Processing: 9478903
+2025-06-05 14:13:26 - scraper - INFO - Successfully processed item: 9478903
+2025-06-05 14:13:26 - scraper - INFO - [63/72] Processing: 8423311
+2025-06-05 14:13:26 - scraper - INFO - Successfully processed item: 8423311
+2025-06-05 14:13:26 - scraper - INFO - [64/72] Processing: 9514121
+2025-06-05 14:13:27 - scraper - INFO - Successfully processed item: 9514121
+2025-06-05 14:13:27 - scraper - INFO - [65/72] Processing: 9454070
+2025-06-05 14:13:27 - scraper - INFO - Successfully processed item: 9454070
+2025-06-05 14:13:27 - scraper - INFO - [66/72] Processing: 9512045
+2025-06-05 14:13:28 - scraper - INFO - Successfully processed item: 9512045
+2025-06-05 14:13:28 - scraper - INFO - [67/72] Processing: 9511125
+2025-06-05 14:13:29 - scraper - INFO - Successfully processed item: 9511125
+2025-06-05 14:13:29 - scraper - INFO - [68/72] Processing: 9492007
+2025-06-05 14:13:29 - scraper - INFO - Successfully processed item: 9492007
+2025-06-05 14:13:29 - scraper - INFO - [69/72] Processing: 9419598
+2025-06-05 14:13:30 - scraper - INFO - Successfully processed item: 9419598
+2025-06-05 14:13:30 - scraper - INFO - [70/72] Processing: 9462416
+2025-06-05 14:13:30 - scraper - INFO - Successfully processed item: 9462416
+2025-06-05 14:13:30 - scraper - INFO - [71/72] Processing: 9478637
+2025-06-05 14:13:31 - scraper - INFO - Successfully processed item: 9478637
+2025-06-05 14:13:31 - scraper - INFO - [72/72] Processing: 9511352
+2025-06-05 14:13:32 - scraper - INFO - Successfully processed item: 9511352
+2025-06-05 14:13:32 - scraper - ERROR - Failed to save data to data/items_data.json: [Errno 2] No such file or directory: 'data/items_data.json'
+Traceback (most recent call last):
+  File "C:\Users\Nariman\AppData\Local\Temp\ipykernel_2740\2305091437.py", line 88, in scrape_all_items
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nariman\AppData\Roaming\Python\Python312\site-packages\IPython\core\interactiveshell.py", line 326, in _modified_open
+    return io_open(file, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'data/items_data.json'
+2025-06-05 14:13:56 - scraper - INFO - Starting to scrape item IDs (max pages: 1)
+2025-06-05 14:13:57 - scraper - INFO - Found 36 new items on page 1
+2025-06-05 14:13:57 - scraper - INFO - Reached max pages limit (1)
+2025-06-05 14:13:57 - scraper - INFO - Finished scraping. Found 36 unique items
+2025-06-05 14:14:10 - scraper - INFO - Starting to scrape item IDs (max pages: 1)
+2025-06-05 14:14:12 - scraper - INFO - Found 36 new items on page 1
+2025-06-05 14:14:12 - scraper - INFO - Reached max pages limit (1)
+2025-06-05 14:14:12 - scraper - INFO - Finished scraping. Found 36 unique items
+2025-06-05 14:14:22 - scraper - INFO - Starting to process 36 items
+2025-06-05 14:14:22 - scraper - INFO - [1/36] Processing: 9500214
+2025-06-05 14:14:23 - scraper - INFO - Successfully processed item: 9500214
+2025-06-05 14:14:23 - scraper - INFO - [2/36] Processing: 9441032
+2025-06-05 14:14:24 - scraper - INFO - Successfully processed item: 9441032
+2025-06-05 14:14:24 - scraper - INFO - [3/36] Processing: 9489878
+2025-06-05 14:14:24 - scraper - INFO - Successfully processed item: 9489878
+2025-06-05 14:14:24 - scraper - INFO - [4/36] Processing: 9470033
+2025-06-05 14:14:25 - scraper - INFO - Successfully processed item: 9470033
+2025-06-05 14:14:25 - scraper - INFO - [5/36] Processing: 9501803
+2025-06-05 14:14:25 - scraper - INFO - Successfully processed item: 9501803
+2025-06-05 14:14:25 - scraper - INFO - [6/36] Processing: 9292860
+2025-06-05 14:14:26 - scraper - INFO - Successfully processed item: 9292860
+2025-06-05 14:14:26 - scraper - INFO - [7/36] Processing: 9280509
+2025-06-05 14:14:27 - scraper - INFO - Successfully processed item: 9280509
+2025-06-05 14:14:27 - scraper - INFO - [8/36] Processing: 9483504
+2025-06-05 14:14:27 - scraper - INFO - Successfully processed item: 9483504
+2025-06-05 14:14:27 - scraper - INFO - [9/36] Processing: 9318439
+2025-06-05 14:14:28 - scraper - INFO - Successfully processed item: 9318439
+2025-06-05 14:14:28 - scraper - INFO - [10/36] Processing: 8953245
+2025-06-05 14:14:28 - scraper - INFO - Successfully processed item: 8953245
+2025-06-05 14:14:28 - scraper - INFO - [11/36] Processing: 9052983
+2025-06-05 14:14:29 - scraper - INFO - Successfully processed item: 9052983
+2025-06-05 14:14:29 - scraper - INFO - [12/36] Processing: 9507138
+2025-06-05 14:14:29 - scraper - INFO - Successfully processed item: 9507138
+2025-06-05 14:14:29 - scraper - INFO - [13/36] Processing: 9509871
+2025-06-05 14:14:30 - scraper - INFO - Successfully processed item: 9509871
+2025-06-05 14:14:30 - scraper - INFO - [14/36] Processing: 9447315
+2025-06-05 14:14:31 - scraper - INFO - Successfully processed item: 9447315
+2025-06-05 14:14:31 - scraper - INFO - [15/36] Processing: 9495126
+2025-06-05 14:14:31 - scraper - INFO - Successfully processed item: 9495126
+2025-06-05 14:14:31 - scraper - INFO - [16/36] Processing: 7769862
+2025-06-05 14:14:32 - scraper - INFO - Successfully processed item: 7769862
+2025-06-05 14:14:32 - scraper - INFO - [17/36] Processing: 9400231
+2025-06-05 14:14:32 - scraper - INFO - Successfully processed item: 9400231
+2025-06-05 14:14:32 - scraper - INFO - [18/36] Processing: 9502398
+2025-06-05 14:14:33 - scraper - INFO - Successfully processed item: 9502398
+2025-06-05 14:14:33 - scraper - INFO - [19/36] Processing: 9502389
+2025-06-05 14:14:34 - scraper - INFO - Successfully processed item: 9502389
+2025-06-05 14:14:34 - scraper - INFO - [20/36] Processing: 9502452
+2025-06-05 14:14:34 - scraper - INFO - Successfully processed item: 9502452
+2025-06-05 14:14:34 - scraper - INFO - [21/36] Processing: 8882454
+2025-06-05 14:14:35 - scraper - INFO - Successfully processed item: 8882454
+2025-06-05 14:14:35 - scraper - INFO - [22/36] Processing: 9486045
+2025-06-05 14:14:35 - scraper - INFO - Successfully processed item: 9486045
+2025-06-05 14:14:35 - scraper - INFO - [23/36] Processing: 9431601
+2025-06-05 14:14:36 - scraper - INFO - Successfully processed item: 9431601
+2025-06-05 14:14:36 - scraper - INFO - [24/36] Processing: 9283773
+2025-06-05 14:14:37 - scraper - INFO - Successfully processed item: 9283773
+2025-06-05 14:14:37 - scraper - INFO - [25/36] Processing: 9505742
+2025-06-05 14:14:37 - scraper - INFO - Successfully processed item: 9505742
+2025-06-05 14:14:37 - scraper - INFO - [26/36] Processing: 9510357
+2025-06-05 14:14:38 - scraper - INFO - Successfully processed item: 9510357
+2025-06-05 14:14:38 - scraper - INFO - [27/36] Processing: 9514135
+2025-06-05 14:14:39 - scraper - INFO - Successfully processed item: 9514135
+2025-06-05 14:14:39 - scraper - INFO - [28/36] Processing: 9364215
+2025-06-05 14:14:39 - scraper - INFO - Successfully processed item: 9364215
+2025-06-05 14:14:39 - scraper - INFO - [29/36] Processing: 9464140
+2025-06-05 14:14:40 - scraper - INFO - Successfully processed item: 9464140
+2025-06-05 14:14:40 - scraper - INFO - [30/36] Processing: 8101303
+2025-06-05 14:14:40 - scraper - INFO - Successfully processed item: 8101303
+2025-06-05 14:14:40 - scraper - INFO - [31/36] Processing: 9511140
+2025-06-05 14:14:41 - scraper - INFO - Successfully processed item: 9511140
+2025-06-05 14:14:41 - scraper - INFO - [32/36] Processing: 9511125
+2025-06-05 14:14:41 - scraper - INFO - Successfully processed item: 9511125
+2025-06-05 14:14:41 - scraper - INFO - [33/36] Processing: 9275877
+2025-06-05 14:14:42 - scraper - INFO - Successfully processed item: 9275877
+2025-06-05 14:14:42 - scraper - INFO - [34/36] Processing: 9418734
+2025-06-05 14:14:43 - scraper - INFO - Successfully processed item: 9418734
+2025-06-05 14:14:43 - scraper - INFO - [35/36] Processing: 9441406
+2025-06-05 14:14:43 - scraper - INFO - Successfully processed item: 9441406
+2025-06-05 14:14:43 - scraper - INFO - [36/36] Processing: 9511705
+2025-06-05 14:14:44 - scraper - INFO - Successfully processed item: 9511705
+2025-06-05 14:14:44 - scraper - INFO - Successfully saved 36 items to data/items_data.json
