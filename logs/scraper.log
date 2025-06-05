@@ -815,3 +815,81 @@ FileNotFoundError: [Errno 2] No such file or directory: 'data/items_data.json'
 2025-06-05 14:14:43 - scraper - INFO - [36/36] Processing: 9511705
 2025-06-05 14:14:44 - scraper - INFO - Successfully processed item: 9511705
 2025-06-05 14:14:44 - scraper - INFO - Successfully saved 36 items to data/items_data.json
+2025-06-05 14:16:13 - scraper - INFO - Starting to scrape item IDs (max pages: 1)
+2025-06-05 14:16:15 - scraper - INFO - Found 36 new items on page 1
+2025-06-05 14:16:15 - scraper - INFO - Reached max pages limit (1)
+2025-06-05 14:16:15 - scraper - INFO - Finished scraping. Found 36 unique items
+2025-06-05 14:16:17 - scraper - INFO - Starting to process 36 items
+2025-06-05 14:16:17 - scraper - INFO - [1/36] Processing: 9475914
+2025-06-05 14:16:17 - scraper - INFO - Successfully processed item: 9475914
+2025-06-05 14:16:17 - scraper - INFO - [2/36] Processing: 9484809
+2025-06-05 14:16:18 - scraper - INFO - Successfully processed item: 9484809
+2025-06-05 14:16:18 - scraper - INFO - [3/36] Processing: 8962955
+2025-06-05 14:16:19 - scraper - INFO - Successfully processed item: 8962955
+2025-06-05 14:16:19 - scraper - INFO - [4/36] Processing: 9479629
+2025-06-05 14:16:19 - scraper - INFO - Successfully processed item: 9479629
+2025-06-05 14:16:19 - scraper - INFO - [5/36] Processing: 9477675
+2025-06-05 14:16:20 - scraper - INFO - Successfully processed item: 9477675
+2025-06-05 14:16:20 - scraper - INFO - [6/36] Processing: 9459989
+2025-06-05 14:16:20 - scraper - INFO - Successfully processed item: 9459989
+2025-06-05 14:16:20 - scraper - INFO - [7/36] Processing: 9483665
+2025-06-05 14:16:21 - scraper - INFO - Successfully processed item: 9483665
+2025-06-05 14:16:21 - scraper - INFO - [8/36] Processing: 9410138
+2025-06-05 14:16:21 - scraper - INFO - Successfully processed item: 9410138
+2025-06-05 14:16:21 - scraper - INFO - [9/36] Processing: 9437839
+2025-06-05 14:16:22 - scraper - INFO - Successfully processed item: 9437839
+2025-06-05 14:16:22 - scraper - INFO - [10/36] Processing: 9514140
+2025-06-05 14:16:23 - scraper - INFO - Successfully processed item: 9514140
+2025-06-05 14:16:23 - scraper - INFO - [11/36] Processing: 9514137
+2025-06-05 14:16:24 - scraper - INFO - Successfully processed item: 9514137
+2025-06-05 14:16:24 - scraper - INFO - [12/36] Processing: 9513319
+2025-06-05 14:16:24 - scraper - INFO - Successfully processed item: 9513319
+2025-06-05 14:16:24 - scraper - INFO - [13/36] Processing: 9055483
+2025-06-05 14:16:25 - scraper - INFO - Successfully processed item: 9055483
+2025-06-05 14:16:25 - scraper - INFO - [14/36] Processing: 8977140
+2025-06-05 14:16:25 - scraper - INFO - Successfully processed item: 8977140
+2025-06-05 14:16:25 - scraper - INFO - [15/36] Processing: 9403912
+2025-06-05 14:16:26 - scraper - INFO - Successfully processed item: 9403912
+2025-06-05 14:16:26 - scraper - INFO - [16/36] Processing: 9316501
+2025-06-05 14:16:27 - scraper - INFO - Successfully processed item: 9316501
+2025-06-05 14:16:27 - scraper - INFO - [17/36] Processing: 9480119
+2025-06-05 14:16:27 - scraper - INFO - Successfully processed item: 9480119
+2025-06-05 14:16:27 - scraper - INFO - [18/36] Processing: 9442779
+2025-06-05 14:16:28 - scraper - INFO - Successfully processed item: 9442779
+2025-06-05 14:16:28 - scraper - INFO - [19/36] Processing: 9493572
+2025-06-05 14:16:29 - scraper - INFO - Successfully processed item: 9493572
+2025-06-05 14:16:29 - scraper - INFO - [20/36] Processing: 9495617
+2025-06-05 14:16:30 - scraper - INFO - Successfully processed item: 9495617
+2025-06-05 14:16:30 - scraper - INFO - [21/36] Processing: 9315607
+2025-06-05 14:16:30 - scraper - INFO - Successfully processed item: 9315607
+2025-06-05 14:16:30 - scraper - INFO - [22/36] Processing: 9478943
+2025-06-05 14:16:31 - scraper - INFO - Successfully processed item: 9478943
+2025-06-05 14:16:31 - scraper - INFO - [23/36] Processing: 9467401
+2025-06-05 14:16:32 - scraper - INFO - Successfully processed item: 9467401
+2025-06-05 14:16:32 - scraper - INFO - [24/36] Processing: 9514138
+2025-06-05 14:16:32 - scraper - INFO - Successfully processed item: 9514138
+2025-06-05 14:16:32 - scraper - INFO - [25/36] Processing: 9474846
+2025-06-05 14:16:33 - scraper - INFO - Successfully processed item: 9474846
+2025-06-05 14:16:33 - scraper - INFO - [26/36] Processing: 9350637
+2025-06-05 14:16:33 - scraper - INFO - Successfully processed item: 9350637
+2025-06-05 14:16:33 - scraper - INFO - [27/36] Processing: 9497122
+2025-06-05 14:16:34 - scraper - INFO - Successfully processed item: 9497122
+2025-06-05 14:16:34 - scraper - INFO - [28/36] Processing: 9315428
+2025-06-05 14:16:35 - scraper - INFO - Successfully processed item: 9315428
+2025-06-05 14:16:35 - scraper - INFO - [29/36] Processing: 9165427
+2025-06-05 14:16:35 - scraper - INFO - Successfully processed item: 9165427
+2025-06-05 14:16:35 - scraper - INFO - [30/36] Processing: 9304577
+2025-06-05 14:16:36 - scraper - INFO - Successfully processed item: 9304577
+2025-06-05 14:16:36 - scraper - INFO - [31/36] Processing: 9514142
+2025-06-05 14:16:37 - scraper - INFO - Successfully processed item: 9514142
+2025-06-05 14:16:37 - scraper - INFO - [32/36] Processing: 9372756
+2025-06-05 14:16:37 - scraper - INFO - Successfully processed item: 9372756
+2025-06-05 14:16:37 - scraper - INFO - [33/36] Processing: 9427264
+2025-06-05 14:16:38 - scraper - INFO - Successfully processed item: 9427264
+2025-06-05 14:16:38 - scraper - INFO - [34/36] Processing: 9512985
+2025-06-05 14:16:39 - scraper - INFO - Successfully processed item: 9512985
+2025-06-05 14:16:39 - scraper - INFO - [35/36] Processing: 9204187
+2025-06-05 14:16:39 - scraper - INFO - Successfully processed item: 9204187
+2025-06-05 14:16:39 - scraper - INFO - [36/36] Processing: 8948342
+2025-06-05 14:16:40 - scraper - INFO - Successfully processed item: 8948342
+2025-06-05 14:16:40 - scraper - INFO - Successfully saved 36 items to data/items_data.json
