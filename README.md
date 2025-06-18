@@ -1,3 +1,19 @@
 <h1>Car Prices</h1>
-
-I will scrape the data from turbo.az and will try to predict the prices of them.
+<p>This project is designed to
+    scrape data from <a href="turbo.az">turbo.az</a>, clean, analyze, and
+    predict car prices using a pipelined XGBoost model. </p> <h2>Project
+    Structure</h2>   <table>
+        <thead>
+          <tr>
+            <th>File/Folder</th>
+            <th>Description</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td>scraping_data.ipynb</td><td>Scrapes data from website</td></tr>
+          <tr><td>load_data.ipynb</td><td>Converts scraped data to CSV</td></tr>
+          <tr><td>preprocessing_data.ipynb</td><td>Cleans and transforms data</td></tr>
+          <tr><td>visualization.ipynb</td><td>Visualizations and insights</td></tr>
+          <tr><td>modelling.ipynb</td><td>Establishing the Model</td></tr>
+          <tr><td>README.md</td><td>Project documentation</td></tr>
+        </tbody>   </table>
