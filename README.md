@@ -1,6 +1,6 @@
 <h1>Car Prices</h1>
-<p>This project is designed to
-    scrape data from <a href="turbo.az">turbo.az</a>, clean, analyze, and
+<p>This project is designed for
+    scraping data from <a href="turbo.az">turbo.az</a>, clean, analyze, and
     predict car prices using a pipelined XGBoost model. </p> <h2>Project
     Structure</h2>   <table>
         <thead>
